@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/artursz1"><img src="https://img.shields.io/github/followers/artursz1?label=follow&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/artursz1"><img src="https://img.shields.io/twitter/follow/artursz1?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://linkedin.com/in/artursz1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
 </p>
 
